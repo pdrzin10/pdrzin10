@@ -6,7 +6,7 @@ Meu nome é pedro henrique
 - Estou me desenvolvendo na linguagem javaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-### vocẽ entrar em contato comigo 📫
+### voc entrar em contato comigo 📫
 
 pedro.calicckio.santos@escola.pr.gov.br
 
